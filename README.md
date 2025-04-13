@@ -104,18 +104,3 @@ Mantenha logs em diretório seguro
 📄 Licença
 MIT License © 2025 - Robert Anderson Carvalho
 
-
-### Destaques deste README:
-1. **Visual moderno** com emojis e seções claras
-2. **Instruções passo-a-passo** para configuração
-3. **Ênfase em segurança** com alertas visíveis
-4. **Explicação do fluxo** do script
-5. **Screenshot-ready** (bem formatado para visualização no GitHub)
-
-Você pode personalizar com:
-- Seu nome/autor na licença
-- Link real do repositório
-- Exemplos específicos dos seus dispositivos
-- Badges (se quiser adicionar)
-
-Quer que eu ajuste alguma seção específica ou adicione mais detalhes técnicos?
